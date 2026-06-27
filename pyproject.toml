@@ -1,6 +1,6 @@
 [project]
 name = "cambodian-phonenumber"
-version = "9.9.10"
+version = "9.9.11"
 requires-python = ">=3.10"
 
 [build-system]
